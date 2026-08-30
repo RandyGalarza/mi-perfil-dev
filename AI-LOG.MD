@@ -2,7 +2,6 @@
 
 **Estudiante:** Randy Galarza
 **Semana:** 1
-**Proyecto:** App móvil
 
 ## 1. Prompts utilizados
 
